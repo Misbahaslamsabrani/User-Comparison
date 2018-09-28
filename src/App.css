@@ -1,0 +1,11 @@
+#space{margin: 0 5%; font-size: 25px;}
+#heading{font-size: 45px; margin: 2%;}
+#form{margin: 1% 3%}
+#submitbu{margin: 4% 0 0 18%}
+table, th,tr, td{border: 1px solid rgb(9, 6, 44);}
+th, td {width: 10%}
+table{width: 40%}
+.con{font-size: 45px; color: darkblue; margin: 2% 0;}
+#display{margin: 3% 0 0 5%;}
+#playAgain{margin-left:9% }
+.errormess{color: red; margin-left: 2px;}
